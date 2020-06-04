@@ -10,10 +10,6 @@ Logo scaling up may not be resolved, cuz the higher resolution is faked.
 
 System Preferences
 
-![Preferences](./img/preferences.jpg)
-
-![Preferences](./img/hidpi.gif)
-
 ## Usage
 
 1.Remote Mode: Run this script in Terminal
