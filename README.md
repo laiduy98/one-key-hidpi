@@ -8,8 +8,6 @@ Some device have wake-up issue, script's second option may help, it inject a pat
 
 Logo scaling up may not be resolved, cuz the higher resolution is faked.
 
-System Preferences
-
 ## Usage
 
 1.Remote Mode: Run this script in Terminal
